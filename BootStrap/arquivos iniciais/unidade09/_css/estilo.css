@@ -1,0 +1,9 @@
+div.carrousel-inner{
+    max-height: 550px;
+}
+
+@nedia (min-width:1170px){
+    div.carousel-inner{
+        max-height:700px;
+    }
+}
